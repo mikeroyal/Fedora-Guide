@@ -6,6 +6,8 @@
 
 #### A guide on setting up your Fedora Desktop with all the essential Applications, Tools, and Games to make your experience with Fedora great!
 
+**View/Download this guide as a PDF: [Fedora Guide.pdf](https://github.com/mikeroyal/Fedora-Guide/files/5940741/Fedora.Guide.pdf)**
+
 # Table of Contents
 
 1. [Getting Started](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#getting-started)
