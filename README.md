@@ -361,10 +361,10 @@ sudo dnf install qemu uml-utilities virt-manager gnome-boxes
 
 ## Contribute
 
-- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Pop!_OS-Guide/pulls).
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Fedora-Guide/pulls).
 
 
 ## License
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
