@@ -6,8 +6,6 @@
 
 #### A guide on setting up your Fedora Desktop with all the essential Applications, Tools, and Games to make your experience with Fedora great!
 
-**View/Download this guide as a PDF: [Fedora Guide.pdf](https://github.com/mikeroyal/Fedora-Guide/files/5940741/Fedora.Guide.pdf)**
-
 # Table of Contents
 
 1. [Getting Started](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#getting-started)
@@ -158,11 +156,8 @@ sudo systemctl status firewalld
  <img src="https://user-images.githubusercontent.com/45159366/106686365-055a7b80-657f-11eb-9b58-1de28abe2e5b.png">
  
  ## Snaps
- 
- ```sh 
-sudo apt install snapd
-sudo apt install gnome-software-plugin-snap
-```
+
+[Installing snap on Fedora](https://snapcraft.io/docs/installing-snap-on-fedora)
 
 [Snap Store](https://snapcraft.io/store) is a build and distribution service for Snap applications.
 
