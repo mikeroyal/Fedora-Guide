@@ -116,7 +116,7 @@ sudo systemctl status firewalld
 
 [Jitsi Meet](https://jitsi.org/jitsi-meet/) is a fully encrypted, 100% open source video conferencing solution.
 
-[Cisco Webex Web App](https://help.webex.com/en-us/n1pxgbz/Cisco-Webex-Web-App) is the web based verison of Cisco Webex video conferencing solution. 
+[Cisco Webex Web App](https://help.webex.com/en-us/n1pxgbz/Cisco-Webex-Web-App) is the web based version of Cisco Webex video conferencing solution. 
 
 [Slack](https://slack.com/downloads/linux)
 
@@ -134,7 +134,7 @@ sudo systemctl status firewalld
 
 [Adobe Lighroom Online photo editor](https://lightroom.adobe.com) is an online web version of Adobe Photoshop Lightroom. Adobe account required to sign-in to app.
 
-[Adobe Spark(Web)](https://spark.adobe.com) is an applications let you make cool Social Graphics, Short Videos, and Web Pages. Adobe account required to sign-in to app.
+[Adobe Spark(Web)](https://spark.adobe.com) is an application that let's you make cool Social Graphics, Short Videos, and Web Pages. Adobe account required to sign-in to app.
 
 [Photopea](https://www.photopea.com/) is an advanced online image editor supporting PSD, XCF, Sketch, XD and CDR formats. (Adobe Photoshop, GIMP, Sketch App, Adobe XD, CorelDRAW).
 
