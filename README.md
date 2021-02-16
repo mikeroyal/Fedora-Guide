@@ -18,9 +18,11 @@
 
 5. [Setting up a Windows 10 workspace](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
 
-6. [GNOME Extensions](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#gnome-extensions)
+6. [Machine Learning](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#machine-learning)
 
-7. [Advanced Topics](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#advanced-topics)
+7. [GNOME Extensions](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#gnome-extensions)
+
+8. [Advanced Topics](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#advanced-topics)
 
 
 # Getting Started
