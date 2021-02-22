@@ -207,7 +207,7 @@ sudo systemctl status firewalld
 
 ## Steam
 
-[Steam Flatpak](https://flathub.org/apps/details/com.valvesoftware.Steam), which is also available in Fedora's Software Center.
+[Steam Flatpak](https://flathub.org/apps/details/com.valvesoftware.Steam) available in Fedora's GNOME Software Center.
 
 **OR**
 
