@@ -711,17 +711,13 @@ Local virtual devices with high performances.
 
 [Apache Spark™ MLflow](https://mlflow.org/) is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. MLflow currently offers four components:
 
-**[MLflow Tracking](https://mlflow.org/docs/latest/tracking.html)**
-Record and query experiments: code, data, config, and results.
+**[MLflow Tracking](https://mlflow.org/docs/latest/tracking.html)**: Record and query experiments: code, data, config, and results.
 
-**[MLflow Projects](https://mlflow.org/docs/latest/projects.html)**
-Package data science code in a format to reproduce runs on any platform.
+**[MLflow Projects](https://mlflow.org/docs/latest/projects.html)**: Package data science code in a format to reproduce runs on any platform.
 
-**[MLflow Models](https://mlflow.org/docs/latest/models.html)**
-Deploy machine learning models in diverse serving environments.
+**[MLflow Models](https://mlflow.org/docs/latest/models.html)**: Deploy machine learning models in diverse serving environments.
 
-**[Model Registry](https://mlflow.org/docs/latest/model-registry.html)**
-Store, annotate, discover, and manage models in a central repository.
+**[Model Registry](https://mlflow.org/docs/latest/model-registry.html)**: Store, annotate, discover, and manage models in a central repository.
 
 [Eclipse Deeplearning4J (DL4J)](https://deeplearning4j.konduit.ai/) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.
 
