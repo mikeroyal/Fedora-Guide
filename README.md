@@ -1319,8 +1319,6 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Fluro](https://github.com/theyakka/fluro) is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.
 
-[Flame](https://flame-engine.org/) is a minimalistic Flutter game engine.
-
 
 # GNOME Extensions
 
