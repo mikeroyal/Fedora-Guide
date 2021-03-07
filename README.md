@@ -1,10 +1,10 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107158826-6ef0d600-6941-11eb-83be-3e3f4461a56d.png">
+ <img src="https://user-images.githubusercontent.com/45159366/110252957-b6688300-7f3c-11eb-860e-ddd731b74de8.png">
   <br />
-  Fedora Guide
+  Fedora/CentOS Stream/Red Hat Enterprise Linux Guide
 </h1>
 
-#### A guide on setting up your Fedora Desktop with all the essential Applications, Tools, and Games to make your experience with Fedora great!
+#### A guide on setting up your Fedora/CentOS Stream/Red Hat Enterprise Linux Desktops with all the essential Applications, Tools, and Games to make your experience with Fedora/CentOS Stream/Red Hat Enterprise Linux great!
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
@@ -72,6 +72,18 @@
  <img src="https://user-images.githubusercontent.com/45159366/107158827-70220300-6941-11eb-917b-dbdb7142a13b.png">
   <br />
   Fedora Desktop
+</h1>
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/110252963-b8cadd00-7f3c-11eb-8cdf-86521423dc1b.png">
+  <br />
+ CentOS Stream Desktop
+</h1>
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/110252965-b9fc0a00-7f3c-11eb-969c-ea210badfd50.png">
+  <br />
+Red Hat Enterprise Linux Desktop
 </h1>
  
  ## Fedora, Red Hat Enterprise Linux (RHEL) and CentOS Stream Development Cycle
