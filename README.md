@@ -83,7 +83,7 @@
 
 
  <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107158827-70220300-6941-11eb-917b-dbdb7142a13b.png">
+ <img src="https://user-images.githubusercontent.com/45159366/142935330-75515c8b-1b83-4962-b44a-cbe1b1fecff5.png">
   <br />
   Fedora Desktop
 </h1>
