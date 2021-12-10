@@ -84,6 +84,12 @@
 
 [WirePlumber](https://pipewire.pages.freedesktop.org/wireplumber/) is a modular session / policy manager for [PipeWire](https://pipewire.org/) and a GObject-based high-level library that wraps PipeWire’s API, providing convenience for writing the daemon’s modules as well as external tools for managing PipeWire. The WirePlumber daemon implements the session & policy management service. It follows a modular design, having plugins that implement the actual management functionality.
 
+[Btrfs](https://btrfs.wiki.kernel.org/index.php/Main_Page) is a modern copy on write (CoW) filesystem for Linux aimed at implementing advanced features while also focusing on fault tolerance, repair and easy administration. Its main features and benefits are:
+
+  - Snapshots which do not make the full copy of files.
+  - RAID - support for software-based RAID 0, RAID 1, RAID 10.
+  - Self-healing - checksums for data and metadata, automatic detection of silent data corruptions.
+
 [Anaconda](http://fedoraproject.org/wiki/Anaconda) is an OS installer used by Fedora, Red Hat Enterprise Linux (RHEL), CentOS Stream and other Linux distributions.
 
 [Fedora Media Writer](https://fedoramagazine.org/make-fedora-usb-stick/) is a tool in Fedora that will set up your flash drive to run a "Live" version of Fedora Workstation, meaning that you can boot it from your flash drive and try it out right away without making any permanent changes to your computer.
