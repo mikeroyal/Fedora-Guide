@@ -1,8 +1,8 @@
-<h1 align="center">
+<h2 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/145488517-79284af2-ec1d-40a5-a7b8-ddb2cb343da2.png">
   <br />
   Fedora/CentOS Stream/Red Hat Enterprise Linux Guide
-</h1>
+</h2>
 
 #### A guide on setting up your Fedora/CentOS Stream/Red Hat Enterprise Linux Desktops with all the essential Applications, Tools, and Games to make your experience with Fedora/CentOS Stream/Red Hat Enterprise Linux great!
 
