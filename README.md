@@ -74,9 +74,33 @@
 
 [CentOS Stream](https://www.centos.org/centos-stream/) is a continuously delivered distro(uses the Fedora OS base) that tracks just ahead of Red Hat Enterprise Linux (RHEL) development, positioned as a midstream between Fedora Linux and RHEL.
 
+[Red Hat Enterprise Linux CoreOS](https://ostreedev.github.io/ostree/#operating-systems-and-distributions-using-ostree) is a derivative of Fedora CoreOS, used in [OpenShift 4](https://try.openshift.com/). The [machine-config-operator](https://github.com/openshift/machine-config-operator/blob/master/docs/OSUpgrades.md) manages upgrades. RHEL CoreOS is also the successor to RHEL Atomic Host, which uses rpm-ostree as well.
+
 [EPEL (Extra Packages for Enterprise Linux)](https://docs.fedoraproject.org/en-US/epel/) is an free and open source community-based repository project from the Fedora team which provides 100% high-quality add-on software packages for Linux distribution including RHEL (Red Hat Enterprise Linux) and CentOS Stream.
 
-[OSTree](https://ostreedev.github.io/ostree/) is an upgrade system for Linux-based operating systems that performs atomic upgrades of complete filesystem trees. It is not a package system; rather, it is intended to complement them. Checkcout the [OSTree GitHub](https://github.com/ostreedev/ostree). 
+[BuildStream](https://gitlab.com/BuildStream/buildstream) is a flexible and extensible framework for the modelling of build pipelines in a declarative YAML format, written in python.
+
+[CoreOS Assembler (COSA)](https://github.com/coreos/coreos-assembler) is a collection of various tools used to build Fedora CoreOS style systems, including RHEL CoreOS. The goal is that everything needed to build and test the OS comes encapsulated in one (admittedly large) container.
+
+[OSTree](https://ostreedev.github.io/ostree/) is an upgrade system for Linux-based operating systems that performs atomic upgrades of complete filesystem trees. It is not a package system; rather, it is intended to complement them. Checkout the [OSTree GitHub](https://github.com/ostreedev/ostree). 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/167503492-1d768b22-4044-4093-a8ee-61a5df9613b8.png">
+<br />
+OSTree
+</p>
+
+[rpm-ostree](https://coreos.github.io/rpm-ostree/) is a hybrid image/package system. It combines [libostree](https://ostreedev.github.io/ostree/) as a base image format, and accepts RPM on both the client and server side, sharing code with the [dnf](https://en.wikipedia.org/wiki/DNF_(software)) project; specifically [libdnf](https://github.com/rpm-software-management/libdnf). Thus bringing many of the benefits of both projects together.
+
+[Pulp](https://pulpproject.org/) is a software repository platform for Fetching, Uploading, Organizing, and Distributing Software Packages.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/167503480-792b4842-1371-4c4e-b8ea-5e135292663c.png">
+<br />
+Pulp Platform
+</p>
+
+[Pulp OSTree Plugin](https://github.com/pulp/pulp_ostree) is a Pulp plugin to support hosting your own OSTree content.
 
 [RPM Package Manager (RPM)](https://rpm.org/) is a powerful package management system capable of building computer software from source into easily distributable packages installing, updating and uninstalling packaged software querying detailed information about the packaged software, whether installed or not.
 
