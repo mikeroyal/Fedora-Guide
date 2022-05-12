@@ -78,6 +78,18 @@
 
 [EPEL (Extra Packages for Enterprise Linux)](https://docs.fedoraproject.org/en-US/epel/) is an free and open source community-based repository project from the Fedora team which provides 100% high-quality add-on software packages for Linux distribution including RHEL (Red Hat Enterprise Linux) and CentOS Stream.
 
+[DNF(Dandified Packaging Tool)](https://docs.fedoraproject.org/en-US/quick-docs/dnf/) is a software package manager that installs, updates, and removes packages on Fedora and is the successor to YUM (Yellow-Dog Updater Modified). DNF makes it easy to maintain packages by automatically checking for dependencies and determines the actions required to install packages.
+
+[Micro DNF](https://fedoraproject.org/wiki/Changes/MajorUpgradeOfMicrodnf) is a lightweight C implementation of DNF, designed to be used for doing simple packaging actions when you don't need full-blown DNF and you want the tiniest useful environments possible. Checkout the [Micro DNF GitHub](https://github.com/rpm-software-management/microdnf).
+
+[Fedora Updates System](https://bodhi.fedoraproject.org/) is a place to create, test, and publish package updates for Fedora.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/168177134-85efb869-c2d5-4d7a-9a53-a3f61a2d74e2.png">
+<br />
+OSTree
+</p>
+
 [BuildStream](https://gitlab.com/BuildStream/buildstream) is a flexible and extensible framework for the modelling of build pipelines in a declarative YAML format, written in python.
 
 [CoreOS Assembler (COSA)](https://github.com/coreos/coreos-assembler) is a collection of various tools used to build Fedora CoreOS style systems, including RHEL CoreOS. The goal is that everything needed to build and test the OS comes encapsulated in one (admittedly large) container.
