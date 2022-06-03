@@ -169,7 +169,7 @@ Pulp Platform
 </h1>
 
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/110252965-b9fc0a00-7f3c-11eb-969c-ea210badfd50.png">
+ <img src="https://user-images.githubusercontent.com/45159366/171923060-f9276330-5d4d-4d6a-9d41-99b9972f0cb2.png">
   <br />
 Red Hat Enterprise Linux Desktop
 </h1>
