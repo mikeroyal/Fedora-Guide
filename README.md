@@ -677,7 +677,6 @@ SteamVR Home
 [Game Design and Development Specialization Course from Coursera](https://www.coursera.org/specializations/game-development)
 
 
-
 # Setting up a macOS workspace
 
 [Back to the Top](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#table-of-contents)
@@ -743,6 +742,12 @@ sudo dnf install qemu uml-utilities virt-manager gnome-boxes
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/108637365-2c4df400-743f-11eb-8265-c07faab3523f.png">
+</p>
+
+[Waydroid](https://github.com/waydroid/waydroid) is a container-based approach to boot a full Android system on a regular Linux system. The Android runtime environment ships with a minimal customized Android system image based on LineageOS. The image is currently based on Android 10.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/171924198-0d440de1-9ff7-4e37-b6c3-f7e42c266530.png">
 </p>
 
 [LineageOS](https://lineageos.org/) is a free and open-source operating system for various devices, based on the Android mobile platform.
