@@ -248,8 +248,6 @@ sudo systemctl status firewalld
 
 [Spotify](https://www.spotify.com/us/download/linux/)
 
-[Apple Music(Web)](https://music.apple.com/) is the web app version of Apple Music that runs in Safari, Google Chrome and Mozilla Firefox.
-
 [Adobe Lighroom Online photo editor](https://lightroom.adobe.com) is an online web version of Adobe Photoshop Lightroom. Adobe account required to sign-in to app.
 
 [Adobe Spark(Web)](https://spark.adobe.com) is an application that let's you make cool Social Graphics, Short Videos, and Web Pages. Adobe account required to sign-in to app.
@@ -289,6 +287,8 @@ sudo systemctl status firewalld
 
 [FlatHub](https://flathub.org/) is a build and distribution service for Flatpak applications.
 
+[Flatseal](https://github.com/tchx84/flatseal) is a graphical utility to review and modify permissions from your [Flatpak](https://flatpak.org/) applications. [Get it on Flathub store](https://flathub.org/apps/details/com.github.tchx84.Flatseal).
+
 [FlatHub Forum](https://discourse.flathub.org/)
 
  <img src="https://user-images.githubusercontent.com/45159366/106686365-055a7b80-657f-11eb-9b58-1de28abe2e5b.png">
@@ -320,6 +320,8 @@ sudo systemctl status firewalld
 [Back to the Top](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#table-of-contents)
 
 ## NVIDIA Drivers
+
+- [NVIDIA Linux Open GPU Kernel Module Source](https://github.com/NVIDIA/open-gpu-kernel-modules)
 
 ### Enable RPM Fusion
    
@@ -529,6 +531,7 @@ sudo dnf install corectrl
 ```
 <img src="https://user-images.githubusercontent.com/45159366/107092000-8b610700-67b7-11eb-86f7-6fcb3d017cd0.png">
 
+[AMDGPU-Pro AMF Fedora](https://github.com/GloriousEggroll/amdgpu-pro-amf-fedora) is a script that downloads the proprietary amdgpu-pro AMF encoder component debian package, converts it to a Fedora RPM, and installs it on the system.
 
 ## Performance Benchmarks
 [Back to the Top](https://github.com/mikeroyal/Fedora-Guide#table-of-contents)
