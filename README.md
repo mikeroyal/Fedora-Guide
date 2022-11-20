@@ -157,9 +157,9 @@ Pulp Platform
 [Fedora Project Forum](https://discussion.fedoraproject.org/)
 
  <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/168485059-ff5f533d-27de-4ed0-9f6a-a482919cebab.png">
+ <img src="https://user-images.githubusercontent.com/45159366/202932225-eb59edb3-c7c9-47d3-834a-04c80ac683fe.png">
   <br />
-  Fedora Desktop
+  Fedora Linux Desktop
 </h1>
 
 <h1 align="center">
