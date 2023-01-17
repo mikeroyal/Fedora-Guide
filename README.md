@@ -26,7 +26,7 @@
     - [ProtonDB](https://github.com/mikeroyal/Fedora-Guide#protondb)
     - [Lutris](https://github.com/mikeroyal/Fedora-Guide#lutris)
         * [Epic Games Store integration](#Epic-Games-Store-integration)
-        * [Blizzard Battle.net integration](#Blizzard-Battlenet-integration)
+        * [Blizzard Battle.net integration](#blizzard-battlenet-intgeration)
         * [EA Play integration](#EA-Play-integration)
         * [Origin integration](#Origin-integration)
         * [Ubisoft Connect integration](#Ubisoft-Connect-integration)
