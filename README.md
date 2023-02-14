@@ -130,6 +130,8 @@
 
 [BuildStream](https://gitlab.com/BuildStream/buildstream) is a flexible and extensible framework for the modelling of build pipelines in a declarative YAML format, written in python.
 
+[Asahi-Fedora-Builder](https://github.com/leifliddy/asahi-fedora-builder) is a script that builds a minimal Fedora image to run on Apple M1/M2 systems.
+
 [CoreOS Assembler (COSA)](https://github.com/coreos/coreos-assembler) is a collection of various tools used to build Fedora CoreOS style systems, including RHEL CoreOS. The goal is that everything needed to build and test the OS comes encapsulated in one (admittedly large) container.
 
 [OSTree](https://ostreedev.github.io/ostree/) is an upgrade system for Linux-based operating systems that performs atomic upgrades of complete filesystem trees. It is not a package system; rather, it is intended to complement them. Checkout the [OSTree GitHub](https://github.com/ostreedev/ostree). 
