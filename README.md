@@ -174,6 +174,8 @@ Pulp Platform
 
 [Fedora Special Interest Groups (SIGs)](https://fedoraproject.org/wiki/Category:SIGs?rd=SIGs) are teams within the Fedora Project that are less formal than official subprojects. The SIGs are sometimes a first stage in the development of new projects within the Fedora Project.  
 
+[Fedora Asahi Special Interest Group](https://fedoraproject.org/wiki/SIGs/Asahi) is a Fedora Special Interest Group to get the Fedora image to run on Apple M1/M2 systems.
+
 [Fedora Media Writer](https://fedoramagazine.org/make-fedora-usb-stick/) is a tool in Fedora that will set up your flash drive to run a "Live" version of Fedora Workstation, meaning that you can boot it from your flash drive and try it out right away without making any permanent changes to your computer.
 
 [Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
