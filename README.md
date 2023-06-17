@@ -4,6 +4,12 @@
   Fedora/CentOS Stream/Red Hat Enterprise Linux Guide
 </h2>
 
+<a href="https://github.com/mikeroyal?tab=followers">
+         <img alt="followers" title="Follow me for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 	
+
+![Maintenance](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)
+![Last-Commit](https://img.shields.io/github/last-commit/mikeroyal/fedora-guide?style=for-the-badge)
+
 #### A guide on setting up your Fedora/CentOS Stream/Red Hat Enterprise Linux Desktops with all the essential Applications, Tools, and Games to make your experience with Fedora/CentOS Stream/Red Hat Enterprise Linux great!
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
