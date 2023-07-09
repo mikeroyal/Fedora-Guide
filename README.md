@@ -329,7 +329,7 @@ sudo systemctl status firewalld
 
 [FlatHub Forum](https://discourse.flathub.org/)
 
- <img src="https://user-images.githubusercontent.com/45159366/106686365-055a7b80-657f-11eb-9b58-1de28abe2e5b.png">
+ <img src="https://github.com/mikeroyal/Fedora-Guide/assets/45159366/d31bccb2-0b26-423a-9148-916e0d431bbb">
  
  ## Snaps
 
