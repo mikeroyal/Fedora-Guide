@@ -38,7 +38,6 @@
         * [Ubisoft Connect integration](#Ubisoft-Connect-integration)
         * [GOG Galaxy integration](#GOG-Galaxy-integration)
     - [Playnite](#playnite)
-    - [Prism Launcher for Minecraft](#prism)
     - [GameHub](https://github.com/mikeroyal/Fedora-Guide#gamehub)
     - [Epic Games Store](https://github.com/mikeroyal/Fedora-Guide#epic-games-store)
    - [Game Streaming](#Game-streaming)
@@ -469,16 +468,6 @@ sudo systemctl status firewalld
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/208235743-4521f909-f26c-4eb1-b259-0b06e9e1d380.png">
-</p>
-
-## Prism
-
-[Back to the Top](#table-of-contents)
-
-[Prism Launcher for Minecraft](https://prismlauncher.org/) is an Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/209223630-4ae7df57-9561-411c-9be8-ea7cd76f266a.png">
 </p>
  
  ## GameHub
