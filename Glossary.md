@@ -39,6 +39,8 @@ C
 
 [Cinnamon Desktop](https://cinnamon-spices.linuxmint.com/), a Linux desktop which provides advanced innovative features and a traditional user experience.
 
+[Copr](https://copr.fedorainfracloud.org/) is a [service](https://docs.fedoraproject.org/infra/sysadmin_guide/copr/) that builds your application as an RPM and provides you with your own DNF/Yum repository.
+
 [CoreOS Assembler (COSA)](https://github.com/coreos/coreos-assembler) is a collection of various tools used to build Fedora CoreOS style systems, including RHEL CoreOS. The goal is that everything needed to build and test the OS comes encapsulated in one (admittedly large) container.
 
 D
