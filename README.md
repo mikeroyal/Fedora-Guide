@@ -22,7 +22,8 @@
 # Table of Contents
 
 1. [Getting Started](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#getting-started)
-
+   * [Running Fedora on Apple Silicon](#running-fedora-on-apple-silicon)
+     
 2. [Getting Software](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#getting-software)
 
 3. [Gaming](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#gaming)
@@ -241,6 +242,44 @@ Open the terminal and run:
 sudo firewall-cmd --state
 sudo systemctl status firewalld
 ```
+## Running Fedora on Apple Silicon
+
+**More Coming Soon!**
+
+### Fedora Asahi Remix
+
+ * [Our new flagship distro: Fedora Asahi Remix - Asahi Linux](https://asahilinux.org/2023/08/fedora-asahi-remix/)
+ * [Fedora Asahi Remix project](https://fedora-asahi-remix.org/)
+ * [Fedora Asahi Remix packages for Apple Silicon](https://packages.fedoraproject.org/pkgs/asahi-scripts/asahi-scripts/)
+ * [Fedora COPR Pacakges for Asahi](https://copr.fedorainfracloud.org/groups/g/asahi/coprs/)
+ * [Fedora Asahi Special Interest Group](https://fedoraproject.org/wiki/SIGs/Asahi)
+
+### Asahi Linux Setup
+
+**Most of the hard work, including the kernel and boot software, was done by the [Asahi Linux project](https://asahilinux.org/) and their development team.**
+
+While you will end up with a fairly usable computer, the exact hardware features you want [may not be ready yet](https://github.com/AsahiLinux/docs/wiki/%22When-will-Asahi-Linux-be-done%3F%22). Please look at the [Asahi Linux Feature Support page](https://github.com/AsahiLinux/docs/wiki/Feature-Support) for information. 
+
+For more general information about Linux on Apple Silicon Macs, refer to the [Asahi Linux project](https://asahilinux.org/) and [alpha installer release](https://asahilinux.org/2022/03/asahi-linux-alpha-release/). 
+ 
+[Asahi-Fedora-Builder](https://github.com/leifliddy/asahi-fedora-builder) is a script that builds a minimal Fedora image to run on Apple M1/M2 systems.
+
+**Installing a Prebuilt Image**
+
+Make sure to update your macOS to version 12.3 or later, then just pull up a Terminal in macOS and paste in this command:
+
+```curl https://leifliddy.com/fedora.sh | sh```
+
+**Fedora Package Install**
+
+```dnf install mkosi arch-install-scripts systemd-container zip```
+
+<h3 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/220301314-23dbffb5-5c08-4d6f-ae22-f5f6c9ab46d3.png">
+  <br />
+  Fedora Linux 
+</h3>
+
 # Getting Software
 
 [Back to the Top](https://github.com/mikeroyal/Fedora-Guide/blob/main/README.md#table-of-contents)
