@@ -244,6 +244,8 @@ sudo systemctl status firewalld
 ```
 ## Running Fedora on Apple Silicon
 
+[Back to the Top](#table-of-contents)
+
 **More Coming Soon!**
 
 ### Fedora Asahi Remix
