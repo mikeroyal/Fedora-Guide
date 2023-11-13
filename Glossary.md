@@ -39,6 +39,8 @@ C
 
 [Cinnamon Desktop](https://cinnamon-spices.linuxmint.com/), a Linux desktop which provides advanced innovative features and a traditional user experience.
 
+[chronyd](https://www.redhat.com/sysadmin/chrony-time-services-linux) is a daemon which runs in background on the system. It obtains measurements (via the network) of the system's offset relative to other systems, and adjusts the system time accordingly.
+
 [Copr](https://copr.fedorainfracloud.org/) is a [service](https://docs.fedoraproject.org/infra/sysadmin_guide/copr/) that builds your application as an RPM and provides you with your own DNF/Yum repository.
 
 [CoreOS Assembler (COSA)](https://github.com/coreos/coreos-assembler) is a collection of various tools used to build Fedora CoreOS style systems, including RHEL CoreOS. The goal is that everything needed to build and test the OS comes encapsulated in one (admittedly large) container.
@@ -186,6 +188,8 @@ V
 [Valve](https://www.valvesoftware.com/) makers of the Steam, SteamOS, and [Steam Deck](http://www.steamdeck.com/).
 
 W
+
+[Warehouse](https://github.com/flattool/warehouse) is a versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks. [Flatpak version](https://flathub.org/apps/io.github.flattool.Warehouse)
 
 [Warpinator](https://github.com/linuxmint/warpinator) is a free, open-source tool for sending and receiving files between computers that are on the same network.
 
